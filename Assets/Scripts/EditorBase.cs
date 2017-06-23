@@ -8,7 +8,7 @@ public class EditorBase : MonoBehaviour {
     public List<GameObject> enemyTypes;
     public ImportAsset Assets;
 
-	// Use this for initialization
+	// use this for initialization
 	void Start () {
 		
 	}
